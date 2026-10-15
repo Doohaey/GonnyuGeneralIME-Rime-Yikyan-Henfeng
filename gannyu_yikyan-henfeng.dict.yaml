@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_yikyan-henfeng
-version: "1.2.0"
+version: "1.2.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -19,32 +19,42 @@ use_preset_vocabulary: false
 䞀	Ghieu	100000
 䞀	Ghiu	100000
 䞀	hou	100000
+一	Gyek	100000
 一	Gyik	200000
 一	yi	200000
 一下子	Gyek Gha Gzï	100000
 一下子	Gyek Gha zi	100000
 一下子	Gyek xia Gzï	100000
 一下子	Gyek xia zi	100000
+一下子	Gyik Gha Gzï	100000
 一下子	yi Gha Gzï	100000
 一下子	yi Gha zi	100000
 一下子	yi xia Gzï	100000
 一下子	yi xia zi	100000
 一会	Gyek Gkui	100000
 一会	Gyek hui	100000
+一会	Gyik Gkui	100000
 一会	yi Gkui	100000
 一会	yi hui	100000
+一料	Gyek Gliau	100000
 一料	Gyik Gliau	100000
 一料	Gyik liao	100000
 一料	yi Gliau	100000
 一料	yi liao	100000
 一直	Gyek Gcek	100000
 一直	Gyek zhi	100000
+一直	Gyik Gcek	100000
 一直	yi Gcek	100000
 一直	yi zhi	100000
+一脚	Gyek Gjiek	100000
+一脚	Gyek Gjik	100000
 一脚	Gyik Gjiek	100000
+一脚	Gyik Gjik	100000
 一脚	Gyik jiao	100000
 一脚	yi Gjiek	100000
 一脚	yi jiao	100000
+一间	Gyek Gjin	100000
+一间	Gyek Gjiên	100000
 一间	Gyik Gjin	100000
 一间	Gyik Gjiên	100000
 一间	Gyik jian	100000
@@ -526,6 +536,7 @@ use_preset_vocabulary: false
 作	Gzuok	120000
 作	zuo	120000
 作揖	Gzak Gyek	100000
+作揖	Gzak Gyêk	100000
 作揖	Gzak yi	100000
 作揖	zuo Gyek	100000
 作揖	zuo yi	100000
@@ -918,6 +929,7 @@ use_preset_vocabulary: false
 刚	Gkan	100000
 刚	gang	120000
 刚么脚	Gkan Gmo Gjiek	100000
+刚么脚	Gkan Gmo Gjik	100000
 刚么脚	Gkan Gmo jiao	100000
 刚么脚	Gkan me Gjiek	100000
 刚么脚	Gkan me jiao	100000
@@ -1351,12 +1363,15 @@ use_preset_vocabulary: false
 合眼睛	he Gngan jing	100000
 合眼睛	he yan Gjin	100000
 合眼睛	he yan jing	100000
+吉	Gjiek	100000
 吉	Gjik	175000
 吉	ji	175000
 吉安	Gjiek Gngong	123169
 吉安	Gjiek an	123169
+吉安	Gjik Gngong	123169
 吉安	ji Gngong	123169
 吉安	ji an	123169
+吉水	Gjiek Gxyu	120000
 吉水	Gjik Gxyu	120000
 吉水	Gjik shui	120000
 吉水	ji Gxyu	120000
@@ -1408,7 +1423,9 @@ use_preset_vocabulary: false
 吮	Gqyuên	100000
 吮	shun	100000
 吮吸	Gqyuon Gxiek	100000
+吮吸	Gqyuon Gxik	100000
 吮吸	Gqyuên Gxiek	100000
+吮吸	Gqyuên Gxik	100000
 吮吸	Gqyuên xi	100000
 吮吸	shun Gxiek	100000
 吮吸	shun xi	100000
@@ -1417,6 +1434,7 @@ use_preset_vocabulary: false
 吴	wu	200000
 吵	Gcau	120000
 吵	chao	120000
+吸	Gxiek	100000
 吸	Gxik	120000
 吸	xi	120000
 吹	Gqyu	120000
@@ -2267,6 +2285,7 @@ use_preset_vocabulary: false
 屁	Gpi	120000
 层	Gcên	200000
 层	ceng	200000
+屄	Gbiek	100000
 屄	Gbik	100000
 屄	bi	100000
 居	Gjyu	120000
@@ -2667,6 +2686,7 @@ use_preset_vocabulary: false
 忽闪	Gfok shan	100000
 忽闪	hu Gxyuon	100000
 忽闪	hu shan	100000
+忽霎一下	Ghuek Gsak Gyek Gha	100000
 忽霎一下	Ghuek Gsak Gyik Gha	100000
 忽霎一下	Ghuek Gsak Gyik xia	100000
 忽霎一下	Ghuek Gsak yi Gha	100000
@@ -3057,6 +3077,7 @@ use_preset_vocabulary: false
 拈	nian	133000
 拉	Gla	200000
 拉屄	Gla Gbiek	100000
+拉屄	Gla Gbik	100000
 拉屄	Gla bi	100000
 拉屄	la bi	100000
 拌	Gpong	120000
@@ -3250,8 +3271,9 @@ use_preset_vocabulary: false
 提	Gti	120000
 插	Gcak	120000
 插	cha	120000
+揖	Gyek	100000
 揖	Gyêk	90000
-揖	yi	90000
+揖	yi	100000
 揞	Gngan	1000
 揞	an	1000
 握	Gwok	195000
@@ -4418,10 +4440,12 @@ use_preset_vocabulary: false
 滴短	di duan	100000
 漂	Gpiau	145000
 漂	piao	145000
+漆	Gqiek	100000
 漆	Gqik	120000
 漆	qi	120000
 漆臊	Gqiek Gcau	100000
 漆臊	Gqiek sao	100000
+漆臊	Gqik Gcau	100000
 漆臊	qi Gcau	100000
 漆臊	qi sao	100000
 漏	Glieu	170000
@@ -5507,6 +5531,7 @@ use_preset_vocabulary: false
 箇样	ge Gyan	100000
 箇样	ge yang	100000
 箇脚	Gê Gjiek	100000
+箇脚	Gê Gjik	100000
 箇脚	Gê jiao	100000
 箇脚	ge Gjiek	100000
 箇脚	ge jiao	100000
@@ -6032,6 +6057,7 @@ use_preset_vocabulary: false
 脓	Gnung	120000
 脓	nong	120000
 脚	Gjiak	120000
+脚	Gjiek	100000
 脚	Gjik	100000
 脚	jiao	120000
 脯	Gfu	105797
@@ -7318,6 +7344,7 @@ use_preset_vocabulary: false
 那样	na Gyan	100000
 那样	na yang	100000
 那脚	Gn Gjiek	100000
+那脚	Gn Gjik	100000
 那脚	Gn jiao	100000
 那脚	na Gjiek	100000
 那脚	na jiao	100000
@@ -8138,14 +8165,17 @@ use_preset_vocabulary: false
 鼓	Ggu	120000
 鼠	Gqyu	120000
 鼠	shu	120000
+鼻	Gpiek	100000
 鼻	Gpik	120000
 鼻	bi	120000
+鼻公	Gpiek Ggung	100000
 鼻公	Gpik Ggung	100000
 鼻公	Gpik gong	100000
 鼻公	bi Ggung	100000
 鼻公	bi gong	100000
 鼻子	Gpiek Gzï	100000
 鼻子	Gpiek zi	100000
+鼻子	Gpik Gzï	100000
 鼻子	bi Gzï	100000
 鼻子	bi zi	100000
 鼾	Ghong	90000
