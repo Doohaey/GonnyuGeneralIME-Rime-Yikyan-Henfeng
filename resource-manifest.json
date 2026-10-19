@@ -1,14 +1,14 @@
 {
   "files": [
     {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
       "path": "default.custom.yaml",
       "sha256": "e39577d72be18e94bb8c85187c5d06fe2c2d0f7fcf47711ceb344c302f9a9850",
       "size": 60
-    },
-    {
-      "path": "default.yaml",
-      "sha256": "7be5b26cb53bf1e6f0282eef24b14cdfdcf28a243f21f99b39765352c2518038",
-      "size": 592
     },
     {
       "path": "gannyu_yikyan-henfeng.dict.yaml",
