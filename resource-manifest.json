@@ -12,8 +12,8 @@
     },
     {
       "path": "gannyu_yikyan-henfeng.dict.yaml",
-      "sha256": "2edcd9eb558cdaf768354bdf350f22d06ceb0106f4757f4d70fb421f35ffae9f",
-      "size": 281422
+      "sha256": "34d4e778748ed2526dc9c1966ac6f2ba3088785d30e0a5e1287455abab5c4bd4",
+      "size": 280780
     },
     {
       "path": "gannyu_yikyan-henfeng.schema.yaml",
@@ -47,12 +47,12 @@
     },
     {
       "path": "lua/gannyu_yikyan-henfeng_annotations.bin",
-      "sha256": "62e9f7ce684fe26e3841f459834d0f8ea834bed3de8e8aefa4145539be9e05d8",
+      "sha256": "37dac42b5358a05887c8c1a677146093d84e27c85df902d75473ea4eacf16993",
       "size": 227843
     },
     {
       "path": "lua/gannyu_yikyan-henfeng_data.lua",
-      "sha256": "f6b5c3fa28d6ac9b14d2f16e1fd8bd06ff17d81c2eb89f6e567c6e6d02650d2a",
+      "sha256": "00794e5c4e568f16acfa85cc4f84e98ea8cc7b0981e577376aff47ab25833331",
       "size": 333358
     }
   ],
