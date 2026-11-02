@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_yikyan-henfeng_old_norel_special_gan_nowenbai
   name: yikyan-henfeng
-  version: "1.2.4"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_yikyan-henfeng_old_norel
   prism: gannyu_yikyan-henfeng_old_norel_special_gan_nowenbai
@@ -39,6 +39,7 @@ speller:
     - derive/^Gcên$/Fceen/
     - derive/^Gcên$/Fcen/
     - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
     - derive/^Gde$/Fdir/
     - derive/^Gdeng$/Fdirng/
     - derive/^Gdieu$/Fdiiru/
@@ -221,6 +222,7 @@ speller:
     - derive/^Gsên$/Fseen/
     - derive/^Gsên$/Fsen/
     - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
     - derive/^Gteng$/Ftirng/
     - derive/^Gteu$/Ftiru/
     - derive/^Gtien$/Ftiirn/
@@ -287,6 +289,7 @@ speller:
     - derive/^Gzên$/Fzeen/
     - derive/^Gzên$/Fzen/
     - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - derive/^Gêan$/Fean/

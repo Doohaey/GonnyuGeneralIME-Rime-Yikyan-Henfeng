@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_yikyan-henfeng
   name: 赣语－弋阳-横峰
-  version: "1.2.4"
+  version: "1.2.7"
   dependencies:
     - gannyu_yikyan-henfeng_nowenbai
     - gannyu_yikyan-henfeng_full_gan
@@ -178,6 +178,7 @@ speller:
     - derive/^Gcên$/Fceen/
     - derive/^Gcên$/Fcen/
     - derive/^Gcï$/Fci/
+    - derive/^Gcï$/Fcii/
     - fuzz/^Gdak$/Fda/
     - derive/^Gdau$/Fdao/
     - derive/^Gde$/Fdir/
@@ -935,6 +936,7 @@ speller:
     - derive/^Gsên$/Fseen/
     - derive/^Gsên$/Fsen/
     - derive/^Gsï$/Fsi/
+    - derive/^Gsï$/Fsii/
     - fuzz/^Gtak$/Fta/
     - derive/^Gtau$/Ftao/
     - derive/^Gteng$/Ften/
@@ -1414,6 +1416,7 @@ speller:
     - derive/^Gzên$/Fzeen/
     - derive/^Gzên$/Fzen/
     - derive/^Gzï$/Fzi/
+    - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
     - derive/^Gêan$/Fean/
