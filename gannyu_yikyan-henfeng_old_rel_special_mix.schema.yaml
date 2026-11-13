@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_yikyan-henfeng_old_rel_special_mix
   name: yikyan-henfeng
-  version: "1.3.1"
+  version: "1.3.2"
 translator:
   dictionary: gannyu_yikyan-henfeng_old_rel
   prism: gannyu_yikyan-henfeng_old_rel_special_mix
@@ -153,8 +153,6 @@ speller:
     - derive/^Gjyuêk$/Fjyuek/
     - derive/^Gjyuên$/Fjyueen/
     - derive/^Gjyuên$/Fjyuen/
-    - derive/^Gjyuêng$/Fjyueeng/
-    - derive/^Gjyuêng$/Fjyueng/
     - derive/^Gke$/Fker/
     - derive/^Gke$/Fkir/
     - derive/^Gken$/Fkern/
@@ -287,8 +285,6 @@ speller:
     - derive/^Gqyuêk$/Fqyuek/
     - derive/^Gqyuên$/Fqyueen/
     - derive/^Gqyuên$/Fqyuen/
-    - derive/^Gqyuêng$/Fqyueeng/
-    - derive/^Gqyuêng$/Fqyueng/
     - derive/^Gsek$/Fserk/
     - derive/^Gsek$/Fsirk/
     - derive/^Gsen$/Fsern/
@@ -355,8 +351,6 @@ speller:
     - derive/^Gxyuêk$/Fxyuek/
     - derive/^Gxyuên$/Fxyueen/
     - derive/^Gxyuên$/Fxyuen/
-    - derive/^Gxyuêng$/Fxyueeng/
-    - derive/^Gxyuêng$/Fxyueng/
     - derive/^Gyek$/Fyerk/
     - derive/^Gyek$/Fyirk/
     - derive/^Gyeu$/Fyeru/
@@ -365,8 +359,6 @@ speller:
     - derive/^Gyuêk$/Fyuek/
     - derive/^Gyuên$/Fyueen/
     - derive/^Gyuên$/Fyuen/
-    - derive/^Gyuêng$/Fyueeng/
-    - derive/^Gyuêng$/Fyueng/
     - derive/^Gyê$/Fye/
     - derive/^Gyê$/Fyee/
     - derive/^Gyêk$/Fyeek/

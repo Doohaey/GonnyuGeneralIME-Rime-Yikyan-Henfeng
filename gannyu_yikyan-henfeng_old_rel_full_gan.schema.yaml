@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_yikyan-henfeng_old_rel_full_gan
   name: yikyan-henfeng
-  version: "1.3.1"
+  version: "1.3.2"
 translator:
   dictionary: gannyu_yikyan-henfeng_old_rel
   prism: gannyu_yikyan-henfeng_old_rel_full_gan
@@ -63,7 +63,6 @@ speller:
     - derive/^Gceng$/Fcerng/
     - derive/^Gceng$/Fcirn/
     - derive/^Gceng$/Fcirng/
-    - fuzz/^Gciuk$/Fciu/
     - fuzz/^Gcok$/Fco/
     - fuzz/^Gcok$/Fcuo/
     - derive/^Gcok$/Fcuok/
@@ -134,10 +133,6 @@ speller:
     - fuzz/^Gduok$/Fduo/
     - fuzz/^Gduok$/Fduuo/
     - derive/^Gduok$/Fduuok/
-    - derive/^Gduon$/Fduen/
-    - derive/^Gduon$/Fduern/
-    - derive/^Gduon$/Fduirn/
-    - derive/^Gduon$/Fdun/
     - derive/^Gduong$/Fduon/
     - derive/^Gduêi$/Fdueei/
     - derive/^Gduêi$/Fduei/
@@ -420,22 +415,6 @@ speller:
     - derive/^Gjyuên$/Fjyuen/
     - derive/^Gjyuên$/Fjyueng/
     - derive/^Gjyuên$/Fjyun/
-    - derive/^Gjyuêng$/Fjueen/
-    - derive/^Gjyuêng$/Fjueeng/
-    - derive/^Gjyuêng$/Fjuen/
-    - derive/^Gjyuêng$/Fjueng/
-    - derive/^Gjyuêng$/Fjun/
-    - fuzz/^Gjyuêng$/Fjuêng/
-    - derive/^Gjyuêng$/Fjveen/
-    - derive/^Gjyuêng$/Fjveeng/
-    - derive/^Gjyuêng$/Fjven/
-    - derive/^Gjyuêng$/Fjveng/
-    - derive/^Gjyuêng$/Fjvêng/
-    - derive/^Gjyuêng$/Fjyueen/
-    - derive/^Gjyuêng$/Fjyueeng/
-    - derive/^Gjyuêng$/Fjyuen/
-    - derive/^Gjyuêng$/Fjyueng/
-    - derive/^Gjyuêng$/Fjyun/
     - fuzz/^Gkak$/Fka/
     - derive/^Gkau$/Fkao/
     - derive/^Gke$/Fker/
@@ -877,22 +856,6 @@ speller:
     - derive/^Gqyuên$/Fqyuen/
     - derive/^Gqyuên$/Fqyueng/
     - derive/^Gqyuên$/Fqyun/
-    - derive/^Gqyuêng$/Fqueen/
-    - derive/^Gqyuêng$/Fqueeng/
-    - derive/^Gqyuêng$/Fquen/
-    - derive/^Gqyuêng$/Fqueng/
-    - derive/^Gqyuêng$/Fqun/
-    - fuzz/^Gqyuêng$/Fquêng/
-    - derive/^Gqyuêng$/Fqveen/
-    - derive/^Gqyuêng$/Fqveeng/
-    - derive/^Gqyuêng$/Fqven/
-    - derive/^Gqyuêng$/Fqveng/
-    - derive/^Gqyuêng$/Fqvêng/
-    - derive/^Gqyuêng$/Fqyueen/
-    - derive/^Gqyuêng$/Fqyueeng/
-    - derive/^Gqyuêng$/Fqyuen/
-    - derive/^Gqyuêng$/Fqyueng/
-    - derive/^Gqyuêng$/Fqyun/
     - fuzz/^Gsak$/Fsa/
     - derive/^Gsau$/Fsao/
     - fuzz/^Gsek$/Fse/
@@ -1168,22 +1131,6 @@ speller:
     - derive/^Gxyuên$/Fxyuen/
     - derive/^Gxyuên$/Fxyueng/
     - derive/^Gxyuên$/Fxyun/
-    - derive/^Gxyuêng$/Fxueen/
-    - derive/^Gxyuêng$/Fxueeng/
-    - derive/^Gxyuêng$/Fxuen/
-    - derive/^Gxyuêng$/Fxueng/
-    - derive/^Gxyuêng$/Fxun/
-    - fuzz/^Gxyuêng$/Fxuêng/
-    - derive/^Gxyuêng$/Fxveen/
-    - derive/^Gxyuêng$/Fxveeng/
-    - derive/^Gxyuêng$/Fxven/
-    - derive/^Gxyuêng$/Fxveng/
-    - derive/^Gxyuêng$/Fxvêng/
-    - derive/^Gxyuêng$/Fxyueen/
-    - derive/^Gxyuêng$/Fxyueeng/
-    - derive/^Gxyuêng$/Fxyuen/
-    - derive/^Gxyuêng$/Fxyueng/
-    - derive/^Gxyuêng$/Fxyun/
     - fuzz/^Gyak$/Fya/
     - derive/^Gyau$/Fyao/
     - fuzz/^Gyek$/Fye/
@@ -1227,10 +1174,6 @@ speller:
     - derive/^Gyuên$/Fyueen/
     - derive/^Gyuên$/Fyuen/
     - derive/^Gyuên$/Fyueng/
-    - derive/^Gyuêng$/Fyueen/
-    - derive/^Gyuêng$/Fyueeng/
-    - derive/^Gyuêng$/Fyuen/
-    - derive/^Gyuêng$/Fyueng/
     - derive/^Gyê$/Fye/
     - derive/^Gyê$/Fyee/
     - fuzz/^Gyêk$/Fye/
