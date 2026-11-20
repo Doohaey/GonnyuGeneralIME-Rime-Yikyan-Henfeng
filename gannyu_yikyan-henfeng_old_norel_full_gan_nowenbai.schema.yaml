@@ -703,6 +703,9 @@ speller:
     - derive/^Gneng$/Fnerng/
     - derive/^Gneng$/Fnirn/
     - derive/^Gneng$/Fnirng/
+    - derive/^Gng$/Fen/
+    - derive/^Gng$/Fern/
+    - derive/^Gng$/Firn/
     - fuzz/^Gngak$/Fnga/
     - derive/^Gngau$/Fngao/
     - derive/^Gngen$/Fngern/
@@ -1080,25 +1083,6 @@ speller:
     - derive/^Gtên$/Fteen/
     - derive/^Gtên$/Ften/
     - fuzz/^Gwak$/Fwa/
-    - fuzz/^Gwek$/Fwe/
-    - fuzz/^Gwek$/Fweir/
-    - derive/^Gwek$/Fweirk/
-    - fuzz/^Gwek$/Fweirp/
-    - fuzz/^Gwek$/Fweirt/
-    - fuzz/^Gwek$/Fwep/
-    - fuzz/^Gwek$/Fwer/
-    - derive/^Gwek$/Fwerk/
-    - fuzz/^Gwek$/Fwerp/
-    - fuzz/^Gwek$/Fwert/
-    - fuzz/^Gwek$/Fwet/
-    - fuzz/^Gwek$/Fwir/
-    - derive/^Gwek$/Fwirk/
-    - fuzz/^Gwek$/Fwirp/
-    - fuzz/^Gwek$/Fwirt/
-    - fuzz/^Gwek$/Fwuir/
-    - derive/^Gwek$/Fwuirk/
-    - fuzz/^Gwek$/Fwuirp/
-    - fuzz/^Gwek$/Fwuirt/
     - derive/^Gwi$/Fwei/
     - derive/^Gwi$/Fweiri/
     - derive/^Gwi$/Fweri/
@@ -1124,7 +1108,6 @@ speller:
     - derive/^Gwêk$/Fweek/
     - derive/^Gwêk$/Fwek/
     - fuzz/^Gwêk$/Fwep/
-    - fuzz/^Gwêk$/Fwet/
     - fuzz/^Gwêk$/Fwê/
     - derive/^Gwên$/Fween/
     - derive/^Gwên$/Fwen/
@@ -1337,6 +1320,9 @@ speller:
     - derive/^Gzï$/Fzii/
     - derive/^Gê$/Fe/
     - derive/^Gê$/Fee/
+    - derive/^Gê$/Fei/
+    - derive/^Gê$/Feri/
+    - derive/^Gê$/Firi/
     - derive/^Gêan$/Fean/
     - derive/^Gêan$/Feean/
     - derive/^Gêi$/Feei/
